@@ -1,6 +1,6 @@
 # Olá!
 
-### 👋 Sou Lucas Guimarães, empresário, engenheiro, corretor e estudante de programação.
+### 👋 Sou Lucas Guimarães, empresário, engenheiro e futuro de programação.
 
 - 🏠 Moro em Fortaleza/CE
 - 👨🏻‍💼 Fundador da **[Atwork Office](https://atworkoffice.com.br/)**

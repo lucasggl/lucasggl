@@ -33,8 +33,5 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/></a>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 
-##
-<div align="left">
-  <a href="https://github.com/lucasggl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasggl&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" /> 
-</div>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Status
+[![lucasggl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasggl&show_icons=true&count_private=true&theme=codeSTACKr&title_color=00acee&icon_color=FF0000)](https://github.com/lucasggl)
